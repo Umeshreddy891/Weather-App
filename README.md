@@ -1,0 +1,3 @@
+->1. Created a Weather App Using HTML,CSS,JavaScript
+->2. I fetched API from Internet
+->3. This project as a responsive nature
